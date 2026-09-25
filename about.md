@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ '/assets/favicon.svg' | relative_url }}" alt="{{ site.title }}" class="brand-about">
 
-<h1 style="display: block; width: fit-content; margin: 0 auto; padding: 0.5rem; border-bottom: 1px solid #2563eb">Tasnim Hasan Fahim</h1>
+<h1 style="display: block; width: fit-content; margin: 0 auto; padding: 0.5rem; text-align: center; border-bottom: 1px solid #2563eb">Tasnim Hasan Fahim</h1>
 
 Hi, I'm **Tasnim Hasan Fahim**, a learner with a strong interest in physics, mathematics, computer science, philosophy and the fundamental principles that describe the universe.
 
