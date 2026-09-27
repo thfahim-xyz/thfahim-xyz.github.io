@@ -12,7 +12,17 @@ Hi, I'm **Tasnim Hasan Fahim**, a learner with a strong interest in physics, mat
 
 I'm particularly interested in understanding how things work. I enjoy learning through clarity, reasoning, and experimentation, and I like turning what I learn into projects and useful things.
 
-I'm currently building my skills in programming and scientific computing alongside my studies, with a particular focus on Python, computational science, and software development.
+This website serves as my career-focused portfolio. I built this site as a place to document what I'm learning, what I'm building, and the questions I'm exploring. Rather than being a traditional résumé, I want it to serve as a living record of my work — one that grows alongside my skills and interests.
+
+You'll find my work and projects here. Some of these projects are practical, some are exploratory, and some exist simply because I wanted to understand how something works.
+
+My academic background is in physics, but I'm particularly interested in developing strong computational and technical skills alongside it. Programming, scientific computing, data analysis, and modern computational tools have become an increasingly important part of how I approach problems.
+
+This website is also a project in itself. As I learn new technologies, build better projects, and discover new areas of interest, I'll continue improving it.
+
+For now, consider this site a snapshot of where I am — and a record of where I'm going.
+
+**Thanks for visiting.**
 
 <div style="display: flex; justify-content: center; gap: 0.75rem; margin-top: 2rem">
 <a href="mailto:thfahim.xyz@gmail.com"><i class="fa-regular fa-envelope fa-xl"></i></a>

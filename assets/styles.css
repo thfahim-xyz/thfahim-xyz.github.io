@@ -292,38 +292,11 @@ td {
 
 .posts-preview { padding-top: 1rem; }
 
-.post-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  border-top: 1px solid var(--border);
-}
-
-.post-item {
-  padding-block: 1.25rem;
-  border-bottom: 1px solid var(--border);
-
-  a {
-    color: var(--text);
-    font-weight: 600;
-    font-size: 1.05rem;
-    transition: color 0.3s ease;
-  }
-  a:hover {
-    color: var(--accent);
-  }
-}
-
 .post-date {
   display: block;
   color: var(--text-muted);
   font-size: 0.875rem;
   margin-top: 0.2rem;
-}
-
-.post-excerpt {
-  color: var(--text-muted);
-  margin: 0.5rem 0 0;
 }
 
 .post-return {
@@ -344,14 +317,6 @@ td {
   padding-bottom: 1.5rem;
 
   .post-date { margin-top: 0.3rem; }
-}
-.post-return {
-  margin-top: 3rem;
-  font-size: 0.9rem;
-
-  &:hover {
-    transition: color 0.3s ease;
-  }
 }
 
 
