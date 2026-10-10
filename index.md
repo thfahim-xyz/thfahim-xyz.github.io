@@ -13,7 +13,7 @@ permalink: /
 </section>
 
 <section class="posts-preview" id="latest-posts">
-  <h2>Latest Posts</h2>
+  <h2>Latest Projects</h2>
 
   <ul class="card-grid">
     {% for post in site.posts limit: 5 %}
