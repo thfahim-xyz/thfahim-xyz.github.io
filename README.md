@@ -12,7 +12,6 @@ This website serves as my professional hub, showcasing my projects, technical in
 
 ## What's Inside
 
-- **Blog** — Notes, ideas, and things I've learned
 - **Projects** — Selected personal and technical projects
 - **About** — A brief introduction, background and ways to get in touch
 
